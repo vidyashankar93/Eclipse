@@ -1,6 +1,9 @@
+
 import java.util.*;
+
 public class Armstrong { 
 		  public static void main(String[] args)  {  
+			  
 		    int c=0,a,temp;  
 		    Scanner o=new Scanner(System.in);
 		    System.out.println("Enter 3 digit Number");
@@ -22,4 +25,6 @@ public class Armstrong {
 		   }  
 		}  
 }
+
+
 
