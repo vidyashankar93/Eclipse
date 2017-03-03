@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Marmstrong {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		 int n, sum = 0, temp, remainder, digits = 0;
 		 
 	      Scanner in = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class Marmstrong {
 	 
 	      temp = n;
 	 
-	      // Count number of digits
+	      
 	 
 	      while (temp != 0) {
 	         digits++;
